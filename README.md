@@ -42,8 +42,6 @@ Development.** I work mainly with MERN stack.
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-### Most used languages
-
 <img src="https://delete-it-topaz.vercel.app/api/top-langs/?username=atif721&layout=donut-vertical&theme=tokyonight&text_color=ffffff&hide=jupyter%20notebook,ejs&card_width=300&langs_count=4&hide_border=true" alt="Most used languages">
 
 ## 🌐 Get in Touch
