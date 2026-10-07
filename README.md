@@ -5,7 +5,8 @@
 
 ## About Me
 
-Hi, I'm Atif, a _Computer Science and Engineering_ student at Varendra University focused on **Full-Stack Web Development.** I work mainly with MERN stack.
+Hi, I'm Atif, a _Computer Science and Engineering_ student at Varendra University focused on **Full-Stack Web
+Development.** I work mainly with MERN stack.
 
 ## Currently
 
@@ -43,7 +44,7 @@ Hi, I'm Atif, a _Computer Science and Engineering_ student at Varendra Universit
 
 ### Most used languages
 
-<img src="https://delete-it-topaz.vercel.app/api/top-langs/?username=atif721&include_all_commits=true&count_private=true&layout=donut-vertical&theme=tokyonight&text_color=ffffff&hide=jupyter notebook,ejs&card_width=300&langs_count=4&hide_border=true" alt="most used language">
+<img src="https://delete-it-topaz.vercel.app/api/top-langs/?username=atif721&layout=donut-vertical&theme=tokyonight&text_color=ffffff&hide=jupyter%20notebook,ejs&card_width=300&langs_count=4&hide_border=true" alt="Most used languages">
 
 ## 🌐 Get in Touch
 
@@ -52,6 +53,7 @@ Hi, I'm Atif, a _Computer Science and Engineering_ student at Varendra Universit
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPgo=)](https://www.linkedin.com/in/ife-abdullahatif)
 
 # 📊 GitHub Stats:
+
 ![](https://github-readme-stats.shion.dev/api?username=atif721&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=atif721&theme=dark&hide_border=false)<br/>
 
