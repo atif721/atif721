@@ -52,7 +52,7 @@ Development.** I work mainly with MERN stack.
 
 # 📊 GitHub Stats:
 
-![GitHub streak](https://streak-stats.demolab.com/?user=atif721&theme=dark&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=atif721&theme=github-dark-blue&border_radius=5.5&timezone=Asia%2FDhaka&date_format=M%20j%5B%2C%20Y%5D&card_width=505)](https://git.io/streak-stats)
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
