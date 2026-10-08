@@ -42,9 +42,7 @@ Development.** I work mainly with MERN stack.
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-<img src="https://delete-it-topaz.vercel.app/api/top-langs/?username=atif721&layout=donut-vertical&theme=tokyonight&text_color=ffffff&hide=jupyter%20notebook,ejs&card_width=300&langs_count=4&hide_border=true" alt="Most used languages">
-
-## 🌐 Get in Touch
+# 🌐 Get in Touch
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/atif_7_2_1)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullahatifraj21@gmail.com)
@@ -52,20 +50,16 @@ Development.** I work mainly with MERN stack.
 
 # 📊 GitHub Stats:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=atif721&theme=github-dark-blue&border_radius=5.5&timezone=Asia%2FDhaka&date_format=M%20j%5B%2C%20Y%5D&card_width=505)](https://git.io/streak-stats)
+<div style="text-align:center">
+  <img style="margin-bottom:7px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atif721&theme=react&bg_color=08101D&text_color=ffffff&show_icons=true&hide_border=true&layout=donut&hide=jupyter%20notebook,ejs&card_width=200&langs_count=4" alt="atif721's Top Languages" />
+
+  <img style="margin-bottom:7px" src="https://github-readme-stats.vercel.app/api?username=atif721&theme=react&show_icons=true&hide_border=true&count_private=true&bg_color=08101D" alt="atif721's Stats" />
+
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=atif721&theme=github-dark-blue&border_radius=5.5&timezone=Asia%2FDhaka&date_format=M%20j%5B%2C%20Y%5D&card_width=505" alt="atif721's GitHub Streak" />
+  </a>
+</div>
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-
-<!-- ![HTMX](https://img.shields.io/badge/htmx-%233D72ED.svg?style=for-the-badge&logo=htmx&logoColor=white) -->
-
-<!--
-### API & Web Servers
-![Caddy](https://img.shields.io/badge/Caddy-00ADEF?style=for-the-badge&logo=caddy&logoColor=white)
-![Gunicorn](https://img.shields.io/badge/gunicorn-%23499848.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
-![cURL](https://img.shields.io/badge/cURL-%23073551.svg?style=for-the-badge&logo=curl&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) -->
-
-<!--
-![GitHub stats](https://github-readme-stats.shion.dev/api?username=atif721&theme=dark&hide_border=true&include_all_commits=true&count_private=true) -->
