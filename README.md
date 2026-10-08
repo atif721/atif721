@@ -51,9 +51,9 @@ Development.** I work mainly with MERN stack.
 # 📊 GitHub Stats:
 
 <div style="text-align:center">
-  <img style="margin-bottom:7px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atif721&theme=react&bg_color=08101D&text_color=ffffff&show_icons=true&hide_border=true&layout=donut&hide=jupyter%20notebook,ejs&card_width=200&langs_count=4" alt="atif721's Top Languages" />
+  <img style="margin-bottom:7px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atif721&theme=react&bg_color=08101D&text_color=ffffff&show_icons=true&hide_border=true&layout=donut&hide=jupyter%20notebook,ejs&card_width=200&langs_count=4" alt="atif721's Top Languages" /> </br>
 
-  <img style="margin-bottom:7px" src="https://github-readme-stats.vercel.app/api?username=atif721&theme=react&show_icons=true&hide_border=true&count_private=true&bg_color=08101D" alt="atif721's Stats" />
+  <img style="margin-bottom:7px" src="https://github-readme-stats.vercel.app/api?username=atif721&theme=react&show_icons=true&hide_border=true&count_private=true&bg_color=08101D" alt="atif721's Stats" /> </br>
 
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=atif721&theme=github-dark-blue&border_radius=5.5&timezone=Asia%2FDhaka&date_format=M%20j%5B%2C%20Y%5D&card_width=505" alt="atif721's GitHub Streak" />
