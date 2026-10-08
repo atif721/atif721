@@ -1,0 +1,13 @@
+<!-- ![HTMX](https://img.shields.io/badge/htmx-%233D72ED.svg?style=for-the-badge&logo=htmx&logoColor=white) -->
+
+<!--
+### API & Web Servers
+![Caddy](https://img.shields.io/badge/Caddy-00ADEF?style=for-the-badge&logo=caddy&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/gunicorn-%23499848.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
+![cURL](https://img.shields.io/badge/cURL-%23073551.svg?style=for-the-badge&logo=curl&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) -->
+
+
+<!-- ![atif721's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atif721&theme=react&bg_color=08101D&text_color=ffffff&show_icons=true&hide_border=true&layout=donut&hide=jupyter%20notebook,ejs&card_width=200&langs_count=4)
+![atif721's Stats](https://github-readme-stats.vercel.app/api?username=atif721&theme=react&show_icons=true&hide_border=true&count_private=true&bg_color=08101D)
+[![atif721's GitHub Streak](https://streak-stats.demolab.com?user=atif721&theme=github-dark-blue&border_radius=5.5&timezone=Asia%2FDhaka&date_format=M%20j%5B%2C%20Y%5D&card_width=505)](https://git.io/streak-stats) -->
