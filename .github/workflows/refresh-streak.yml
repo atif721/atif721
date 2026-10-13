@@ -1,0 +1,22 @@
+name: Refresh streak card
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # daily, 00:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Bump cache-busting param
+        run: sed -i -E "s/&v=[0-9]+/\&v=$(date +%Y%m%d)/" README.md
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git diff --quiet || (git commit -am "chore: refresh streak card" && git push)
