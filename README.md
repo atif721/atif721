@@ -51,12 +51,12 @@ Development.** I work mainly with MERN stack.
 # 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atif721&theme=react&bg_color=08101D&text_color=ffffff&show_icons=true&hide_border=true&layout=normal&hide=jupyter%20notebook,ejs&card_width=500&langs_count=4&v=20261025" alt="atif721's Top Languages" /><br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atif721&theme=react&bg_color=08101D&text_color=ffffff&show_icons=true&hide_border=true&layout=normal&hide=jupyter%20notebook,ejs&card_width=500&langs_count=4&v=20261026" alt="atif721's Top Languages" /><br />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=atif721&theme=react&show_icons=true&hide_border=true&bg_color=08101D&card_width=500&v=20261025" alt="atif721's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=atif721&theme=react&show_icons=true&hide_border=true&bg_color=08101D&card_width=500&v=20261026" alt="atif721's Stats" />
   <br />
 
-  <img src="https://streak-stats.demolab.com?user=atif721&theme=github-dark-blue&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&card_width=500&v=20261025" alt="atif721's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=atif721&theme=github-dark-blue&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&card_width=500&v=20261026" alt="atif721's GitHub Streak" />
   
 </div>
 
